@@ -1,19 +1,17 @@
-# Acronym
+# Anagram
 
-Convert a long phrase to its acronym
+Write a program that, given a word and a list of possible anagrams, selects the correct sublist.
 
-Techies love their TLA (Three Letter Acronyms)!
-
-Help generate some jargon by writing a program that converts a long name
-like Portable Network Graphics to its acronym (PNG).
-
+Given `"listen"` and a list of candidates like `"enlists" "google"
+"inlets" "banana"` the program should return a list containing
+`"inlets"`.
 
 ## Setup
 
 Go through the setup instructions for JavaScript to
 install the necessary dependencies:
 
-http://exercism.io/languages/javascript
+http://help.exercism.io/getting-started-with-javascript.html
 
 ## Making the Test Suite Pass
 

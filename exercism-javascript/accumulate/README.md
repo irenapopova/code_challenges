@@ -44,6 +44,3 @@ Once you get a test passing, you can unskip the next one by
 changing `xit` to `it`.
 
 
-## Source
-
-Conversation with James Edward Gray II [view source](https://twitter.com/jeg2)
